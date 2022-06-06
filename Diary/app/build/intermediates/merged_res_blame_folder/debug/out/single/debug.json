@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_picture1.jpg.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\picture1.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_icon_4.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_icon_4.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_graph_48.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\graph_48.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_select_button.xml.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\select_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile4_48.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\smile4_48.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile2_48.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\smile2_48.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_note_128.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\note_128.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_write_48.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\write_48.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_2.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_2.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_icon_1.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_icon_1.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_diary_item.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\diary_item.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\layout_note_item.xml.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\layout\\note_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile2_24.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\smile2_24.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_icon_7.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_icon_7.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile1_24.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\smile1_24.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_noimagefound.jpg.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\noimagefound.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_list_48.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\list_48.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile5_24.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\smile5_24.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile3_24.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\smile3_24.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile4_24.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\smile4_24.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_icon_3.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_icon_3.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_3.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_3.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_item_color.xml.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\item_color.xml"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_bottom.xml.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\menu\\menu_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_6.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_6.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_icon_6.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_icon_6.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_4.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_4.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_picture_128.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\picture_128.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_note_48.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\note_48.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile3_48.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\smile3_48.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile5_48.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\smile5_48.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_note_64.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\note_64.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\Diary\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_5.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_5.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_7.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_7.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_star.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_imagetoset.jpg.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\imagetoset.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile1_48.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\smile1_48.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_1.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_1.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_icon_2.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_icon_2.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather_icon_5.png.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\drawable\\weather_icon_5.png"
+    },
+    {
+        "merged": "E:\\Android\\Diary\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\Diary\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]
